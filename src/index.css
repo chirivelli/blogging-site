@@ -2,17 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.calci {
-    border: black solid 1px;
-    width: 16rem;
-}
-
-.numpad-row {
-}
-
-.numpad-item {
-    height: 3rem;
-    width: 3rem;
-    border: 1px solid black;
-    border-radius: 1rem;
+* {
+    box-shadow: black 0 0 5px;
 }
