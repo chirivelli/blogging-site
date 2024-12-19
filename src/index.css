@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-    box-shadow: black 0 0 5px;
-}
+/** {*/
+/*    box-shadow: black 0 0 5px;*/
+/*}*/
